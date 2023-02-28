@@ -16,9 +16,8 @@
 
 ![print-manicure-wb](https://user-images.githubusercontent.com/101514929/222009884-d0e01bac-4bf1-46c3-90ef-f15ebf90176e.PNG)
 
-
-
-
 <h2>Versão Mobile</h2> 
 
-![imagem_2023-02-28_140309268-removebg-preview](https://user-images.githubusercontent.com/101514929/221924978-692f7584-f3b2-4811-bb81-128011478365.png)
+![imagem_2023-02-28_205527250-removebg-preview](https://user-images.githubusercontent.com/101514929/222010038-40ec62e9-4cdf-44be-9845-29f6e5319f76.png)
+
+
