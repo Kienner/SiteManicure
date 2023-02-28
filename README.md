@@ -1,4 +1,4 @@
-# Site manicure
+# Site manicure responsivo
 ## Desenvolvi esse site de manicure para estudos
 
 <h2>https://manicuresiteestudos.netlify.app</h2>
@@ -14,7 +14,9 @@
 
 <h2>Versão Web</h2>
 
-![print-port-web](https://user-images.githubusercontent.com/101514929/221922898-e1583b85-9f13-4279-bdec-b6fd430c339a.PNG)
+![print-manicure-wb](https://user-images.githubusercontent.com/101514929/222009884-d0e01bac-4bf1-46c3-90ef-f15ebf90176e.PNG)
+
+
 
 
 <h2>Versão Mobile</h2> 
