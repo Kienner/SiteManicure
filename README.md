@@ -1,7 +1,7 @@
 # Site manicure
 ## Desenvolvi esse site de manicure para estudos
 
-<h2>https://kennersouza.netlify.app</h2>
+<h2>https://manicuresiteestudos.netlify.app</h2>
 
 <h3>Tecnologias usadas:</h3>
 
